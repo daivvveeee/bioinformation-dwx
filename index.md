@@ -25,13 +25,13 @@
 - **掌握R语言和linux等基础编程知识**。
 - **学习如何处理大规模的生物数据**。
 - **养成良好的数据和文件整理习惯**。
-### 计划安排：
+## 计划安排：
 课堂记录，课下问题及时向助教解决；每周课下约4-6h self learning
-1. **programming**：
+### **programming**：
 - Linux（week1-4）
 - R（week5-16）
-2. **data analysis**：
+### **data analysis**：
 - basic & NGS（week2-12）
-3. **machine learning & AI**
+### **machine learning & AI**
 - week13-16（第13周开始准备pre）
    
