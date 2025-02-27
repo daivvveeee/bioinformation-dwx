@@ -28,10 +28,10 @@
 ### 计划安排：
 课堂记录，课下问题及时向助教解决；每周课下约4-6h self learning
 1. **programming**：
-   - Linux（week1-4）
-   - R（week5-16）
+- Linux（week1-4）
+- R（week5-16）
 2. **data analysis**：
-   - basic & NGS（week2-12）
+- basic & NGS（week2-12）
 3. **machine learning & AI**
-   - week13-16（第13周开始准备pre）
+- week13-16（第13周开始准备pre）
    
